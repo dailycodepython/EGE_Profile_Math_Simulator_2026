@@ -1,0 +1,30 @@
+# 🚀 Interactive Simulator for EGE Profile Mathematics in Google Colab
+
+Welcome! This repository is designed for high school graduates preparing for the **Unified State Exam (EGE) in advanced profile mathematics** who want to combine exam preparation with modern programming capabilities.
+
+Instead of boring paper test books, this project offers an **interactive Python notebook** that transforms abstract mathematical formulas into tangible, readable algorithms.
+
+---
+
+## 🌍 На русском языке / Russian Version Below
+
+# 🚀 Интерактивный тренажер-симулятор для подготовки к ЕГЭ по профильной математике в Google Colab
+
+Добро пожаловать! Этот репозиторий создан для выпускников 11 классов, которые готовятся к сдаче **ЕГЭ по профильной математике** и хотят совместить подготовку с возможностями современного программирования.
+
+Вместо скучных бумажных сборников здесь собран **интерактивный Python-ноутбук**, который превращает абстрактные математические формулы в осязаемые алгоритмы.
+
+---
+
+## 🛠 How to Use This Project / Как пользоваться проектом?
+
+1. **Open in Google Colab:** Click on the `.ipynb` file in this repository and open it via Google Colab.
+2. **Run the Cells:** Execute the Python code cells sequentially to visualize math problems.
+3. **Practice:** Solve tasks interactively and test your skills using algorithms.
+
+---
+
+### 📈 Features / Преимущества:
+* **Algorithm-Driven Math:** Understand the logic behind tough profile math problems.
+* **Interactive Code:** Modify variables in real-time to see how equations change.
+* **Google Colab Ready:** No installation required, works straight from your browser.
