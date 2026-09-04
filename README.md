@@ -4,15 +4,6 @@ Welcome! This repository is designed for high school graduates preparing for the
 
 Instead of boring paper test books, this project offers an **interactive Python notebook** that transforms abstract mathematical formulas into tangible, readable algorithms.
 
----
-
-## 🌍 На русском языке / Russian Version Below
-
-# 🚀 Интерактивный тренажер-симулятор для подготовки к ЕГЭ по профильной математике в Google Colab
-
-Добро пожаловать! Этот репозиторий создан для выпускников 11 классов, которые готовятся к сдаче **ЕГЭ по профильной математике** и хотят совместить подготовку с возможностями современного программирования.
-
-Вместо скучных бумажных сборников здесь собран **интерактивный Python-ноутбук**, который превращает абстрактные математические формулы в осязаемые алгоритмы.
 
 ---
 
@@ -28,6 +19,8 @@ Instead of boring paper test books, this project offers an **interactive Python 
 * **Algorithm-Driven Math:** Understand the logic behind tough profile math problems.
 * **Interactive Code:** Modify variables in real-time to see how equations change.
 * **Google Colab Ready:** No installation required, works straight from your browser.
+
+  
 
 
 # 🚀 Интерактивный тренажер-симулятор для подготовки к ЕГЭ по профильной математике в Google Colab
